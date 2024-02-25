@@ -6,5 +6,4 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: false
 ---
 
-
 Organize your courses by years, topics, or universities, however you like!

@@ -654,7 +654,6 @@ footer.sticky-bottom {
   }
 }
 
-
 // Publications
 
 .publications {
@@ -719,8 +718,8 @@ footer.sticky-bottom {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
           &:hover {
-              border-bottom-style: solid;
-              text-decoration: none;
+            border-bottom-style: solid;
+            text-decoration: none;
           }
         }
         > em {
@@ -732,8 +731,8 @@ footer.sticky-bottom {
           border-bottom: 1px dashed var(--global-text-color-light);
           cursor: pointer;
           &:hover {
-              color: var(--global-text-color);
-              border-bottom: 1px dashed var(--global-text-color);
+            color: var(--global-text-color);
+            border-bottom: 1px dashed var(--global-text-color);
           }
         }
       }

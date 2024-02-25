@@ -295,15 +295,23 @@ scholar:
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
- 
+
   # https://github.com/sdaza/sdaza.github.io
   sort_by: date
   order: descending
-  type_aliases: { inproceedings: incollection}
+  type_aliases: { inproceedings: incollection }
   type_order: [article, unpublished, incollection, report]
-  type_names: {unpublished: working papers, report: technical reports, techreport: technical reports, article: journal articles, incollection: books & conferences}
-    
-  bibtex_filters: [latex, smallcaps, superscript]
+  type_names:
+    {
+      unpublished: working papers,
+      report: technical reports,
+      techreport: technical reports,
+      article: journal articles,
+      incollection: books & conferences,
+    }
+
+  bibtex_filters:
+    [latex, smallcaps, superscript]
 
     #replace_strings: true
     #join_strings: true
@@ -311,7 +319,8 @@ scholar:
     #details_dir: bibliography
     #details_link: Details
 
-  query: "@*"
+  query:
+    "@*"
     #group_by: year
     #group_order: descending
 
