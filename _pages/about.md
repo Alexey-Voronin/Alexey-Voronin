@@ -12,12 +12,10 @@ profile:
     <p>Urbana, IL</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
-
-**Website under construction.**
 
 With over eight years of experience in scientific computing and numerical
 modeling, I am a PhD candidate in Computer Science at the University of Illinois
