@@ -3,8 +3,7 @@ layout: page
 permalink: /reading/
 title: Reading
 description: Books and other references 
-
-nav: true
+nav: false
 ---
 
 **Linear Algebra**
