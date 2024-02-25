@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -35,4 +35,4 @@ optimization and advancement of several multiphysics simulation codes,
 leveraging my expertise in CUDA, emerging HPC architectures, algebraic multigrid
 methods, and PDEs. I am passionate about bridging the gap between computational
 innovation and real-world applications, and I am eager to join teams and
-projects that share this vision. 
+projects that share this vision.
