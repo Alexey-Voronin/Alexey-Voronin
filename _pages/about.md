@@ -17,20 +17,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-With over eight years of experience in scientific computing and numerical
-modeling, I am a PhD candidate in Computer Science at the University of Illinois
-at Urbana-Champaign, where I conduct cutting-edge research on scalable numerical
-solvers for coupled physics and engineering applications. My work involves
-developing and implementing novel multilevel methods that enhance the robustness
-and efficiency of numerical algorithms for (non-)linear PDEs and complex linear
-systems, as well as applying them to diverse domains such as graph partitioning,
-optimization, and high-performance computing (HPC).
+I am a PhD candidate in Computer Science at the University of Illinois at
+Urbana-Champaign, with over eight years of experience in scientific computing
+and numerical modeling. My research focuses on creating scalable numerical
+solvers for complex engineering and physics problems. I specialize in developing
+multilevel methods that improve the performance of algorithms solving linear and
+nonlinear partial differential equations. These methods have applications in
+various fields, including graph partitioning, optimization, and high-performance
+computing.
 
-Prior to and during my PhD, I have also gained valuable practical experience as
-a software engineer at Lawrence Livermore National Laboratory and a student
-intern at Sandia National Laboratories, where I have contributed to the
-optimization and advancement of several multiphysics simulation codes,
-leveraging my expertise in CUDA, emerging HPC architectures, algebraic multigrid
-methods, and PDEs. I am passionate about bridging the gap between computational
-innovation and real-world applications, and I am eager to join teams and
-projects that share this vision.
+Before and during my PhD, I worked as a software engineer at Lawrence Livermore
+National Laboratory and as an intern at Sandia National Laboratories. There, I
+enhanced multiphysics simulation codes by applying my knowledge in GPU
+computing, modern HPC architectures, multigrid methods, and PDEs. My goal is to
+combine computational innovation with practical applications, and I am keen to
+collaborate with teams that share this ambition.
+
