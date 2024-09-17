@@ -26,7 +26,7 @@ applications in fields like graph partitioning, optimization, and machine
 learning.
 
 I earned my PhD in Computer Science from the University of Illinois at
-Urbana-Champaign. With over eight years of experience in scientific computing
+Urbana-Champaign (UIUC). With over eight years of experience in scientific computing
 and numerical modeling, my career also includes three years as a
 software engineer at Lawrence Livermore National Laboratory. There, I enhanced
 multiphysics simulation codes by applying my knowledge in GPU
